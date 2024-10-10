@@ -2,7 +2,7 @@
 
 Olá, tudo certo? 👋
 
-## Estatísticas do GitHub
+## Informações GitHub
 
 | Estatísticas       | Linguagens Mais Usadas   |
 |--------------------|--------------------------|
@@ -18,34 +18,12 @@ Olá, tudo certo? 👋
 
 ## Cursos
 
-- Montagem e Manutenção de Computadores
-- Informática (Pacote Office, Digitação Avançada)
-- Cabeamento Estruturado, Noções de Hardware/Software
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-- Lógica de Programação, Introdução ao Git e GitHub
+| Curso                                       | Habilidades Técnicas                          |
+|---------------------------------------------|-----------------------------------------------|
+| Montagem e Manutenção de Computadores       | **Ferramentas:** Git, VSCode                  |
+| Informática (Pacote Office, Digitação Avançada) | **Banco de Dados:** MySQL, PostgreSQL       |
 
----
-
-## Habilidades Técnicas
-
-- **Ferramentas:** Git, VSCode
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Linguagens de Programação:** HTML, CSS, JavaScript
-
----
-
-## Projetos Pessoais ou Acadêmicos
-
-### Acadêmico
-- **Projeto Pokémon:** Criação de um app para caçar e capturar Pokémon.
-  - **Tecnologias:** Angular, HTML, Ionic, SCSS, TypeScript.
-
-### Pessoal
-- **Portfólio:** Página para apresentação do trabalho de uma nutricionista.
-  - **Tecnologias:** HTML, CSS, JavaScript.
-
----
-
-## Objetivo
-
-Aprimorar minhas habilidades em programação e contribuir para a criação de soluções inovadoras e eficientes.
+| Projetos Pessoais ou Acadêmicos             | Objetivo                                       |
+|---------------------------------------------|-----------------------------------------------|
+| **Projeto Pokémon:** App para caçar Pokémon  | Aprimorar habilidades em programação e contribuir para soluções inovadoras. |
+| **Portfólio:** Trabalho de uma nutricionista |                                               |
