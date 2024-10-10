@@ -18,12 +18,17 @@ Olá, tudo certo? 👋
 
 ## Cursos
 
-| Curso                                       | Habilidades Técnicas                          |
-|---------------------------------------------|-----------------------------------------------|
-| Montagem e Manutenção de Computadores       | **Ferramentas:** Git, VSCode                  |
+| Curso                                        | Habilidades Técnicas                          |
+|----------------------------------------------|-----------------------------------------------|
+| Montagem e Manutenção de Computadores        | **Ferramentas:** Git, VSCode                  |
 | Informática (Pacote Office, Digitação Avançada) | **Banco de Dados:** MySQL, PostgreSQL       |
 
-| Projetos Pessoais ou Acadêmicos             | Objetivo                                       |
-|---------------------------------------------|-----------------------------------------------|
-| **Projeto Pokémon:** App para caçar Pokémon  | Aprimorar habilidades em programação e contribuir para soluções inovadoras. |
-| **Portfólio:** Trabalho de uma nutricionista |                                               |
+---
+
+## Projetos Pessoais ou Acadêmicos
+
+| Projetos Acadêmicos                          | Objetivo                                       |
+|----------------------------------------------|-----------------------------------------------|
+| **Projeto Pokémon:** Criação de um app para caçar e capturar Pokémon. <br> **Tecnologias:** Angular, HTML, Ionic, SCSS, TypeScript. | Aprimorar habilidades em programação e contribuir para a criação de soluções inovadoras e eficientes. |
+| **Portfólio:** Página para apresentação do trabalho de uma nutricionista. <br> **Tecnologias:** HTML, CSS, JavaScript. |                                               |
+
