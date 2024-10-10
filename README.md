@@ -14,18 +14,10 @@ Olá, tudo certo? 👋
 
 ## Informações Pessoais
 
-- **Data de Nascimento:** 08/07/2003
-- **Cidade:** Recife, PE
-- **Telefone:** (81) 99738-5714
 - **Email:** [kauhanhernandes@gmail.com](mailto:kauhanhernandes@gmail.com)
 - **GitHub:** [github.com/kauhanhernandes](https://github.com/kauhanhernandes)
-
----
-
-## Escolaridade
-
-- **Ensino Superior:** Análise e Desenvolvimento de Sistemas (4º Período)
-
+- **LinkedIn:** [linkedin.com/in/kauhanhernandes](https://www.linkedin.com/in/kauhanhernandes/)
+  
 ---
 
 ## Cursos
@@ -46,20 +38,6 @@ Olá, tudo certo? 👋
 
 ---
 
-## Experiências Profissionais
-
-### Estagiário - Prefeitura do Recife
-- **Função:** Auxiliar de Recepção
-- **Atividades:** Digitar e protocolar documentos, organizar arquivos e manutenção de equipamentos.
-- **Período:** 1 ano e 1 mês.
-
-### Exército Brasileiro
-- **Função:** Auxiliar de Informática
-- **Atividades:** Manutenção de Micro e Cabeamento de Rede.
-- **Período:** 9 meses.
-
----
-
 ## Projetos Pessoais ou Acadêmicos
 
 ### Acadêmico
@@ -74,4 +52,4 @@ Olá, tudo certo? 👋
 
 ## Objetivo
 
-Busco oportunidades na área de Desenvolvimento de Sistemas, com foco em aprimorar minhas habilidades em programação e contribuir para a criação de soluções inovadoras e eficientes.
+Aprimorar minhas habilidades em programação e contribuir para a criação de soluções inovadoras e eficientes.
