@@ -1,25 +1,42 @@
-# Kauhan Hernandes da Silva - 21
+# Kauhan Hernandes da Silva
 
-Meu nome é Kauhan e sou estudante de Análise e Desenvolvimento de Sistemas.
+Olá, tudo certo? 👋
 
-## Informações de Contato
+## Estatísticas do GitHub
 
-- 📍 Cidade: Recife, PE
-- 📞 Telefone: (81) 99738-5714
-- ✉️ Email: [kauhanhernandes@gmail.com](mailto:kauhanhernandes@gmail.com)
-- 🔗 GitHub: [github.com/kauhanhernandes](https://github.com/kauhanhernandes)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauhanhernandes&show_icons=true&theme=radical)
+
+### Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauhanhernandes&layout=compact&theme=radical)
+
+---
+
+## Informações Pessoais
+
+- **Data de Nascimento:** 08/07/2003
+- **Cidade:** Recife, PE
+- **Telefone:** (81) 99738-5714
+- **Email:** [kauhanhernandes@gmail.com](mailto:kauhanhernandes@gmail.com)
+- **GitHub:** [github.com/kauhanhernandes](https://github.com/kauhanhernandes)
+
+---
 
 ## Escolaridade
 
 - **Ensino Superior:** Análise e Desenvolvimento de Sistemas (4º Período)
 
+---
+
 ## Cursos
 
-- Manutenção e Montagem de Computador
+- Montagem e Manutenção de Computadores
 - Informática (Pacote Office, Digitação Avançada)
 - Cabeamento Estruturado, Noções de Hardware/Software
 - Desenvolvimento Web (HTML, CSS, JavaScript)
 - Lógica de Programação, Introdução ao Git e GitHub
+
+---
 
 ## Habilidades Técnicas
 
@@ -27,27 +44,33 @@ Meu nome é Kauhan e sou estudante de Análise e Desenvolvimento de Sistemas.
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Linguagens de Programação:** HTML, CSS, JavaScript
 
-## Experiência Profissional
+---
 
-### Estagiário na Prefeitura do Recife
+## Experiências Profissionais
+
+### Estagiário - Prefeitura do Recife
 - **Função:** Auxiliar de Recepção
 - **Atividades:** Digitar e protocolar documentos, organizar arquivos e manutenção de equipamentos.
-- **Período:** 1 ano e 1 mês
+- **Período:** 1 ano e 1 mês.
 
 ### Exército Brasileiro
 - **Função:** Auxiliar de Informática
 - **Atividades:** Manutenção de Micro e Cabeamento de Rede.
-- **Período:** 9 meses
+- **Período:** 9 meses.
+
+---
 
 ## Projetos Pessoais ou Acadêmicos
 
-### Acadêmico: Projeto Pokemon
-- **Descrição:** Criação de um app para caçar Pokémon e capturar Pokémon.
-- **Tecnologias:** Angular, HTML, Ionic, SCSS, TypeScript.
+### Acadêmico
+- **Projeto Pokémon:** Criação de um app para caçar e capturar Pokémon.
+  - **Tecnologias:** Angular, HTML, Ionic, SCSS, TypeScript.
 
-### Pessoal: Criação de um Portfólio
-- **Descrição:** Página para apresentação do trabalho de uma nutricionista.
-- **Tecnologias:** HTML, CSS, JavaScript.
+### Pessoal
+- **Portfólio:** Página para apresentação do trabalho de uma nutricionista.
+  - **Tecnologias:** HTML, CSS, JavaScript.
+
+---
 
 ## Objetivo
 
