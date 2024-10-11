@@ -1,4 +1,4 @@
-# Kauhan Hernandes da Silva
+# Kauhan Hernandes
 
 Olá, tudo certo? 👋
 
